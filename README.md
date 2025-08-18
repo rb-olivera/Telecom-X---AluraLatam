@@ -1,4 +1,4 @@
-# Telecom X – Análisis de Evasión de Clientes (Churn)
+# Telecom X – PARTE UNO
 
 Este proyecto forma parte del Challenge de Alura Latam – Data Science. El objetivo fue analizar datos de clientes de Telecom X con el fin de comprender los factores que influyen en la evasión de clientes (churn) y generar insights estratégicos que permitan diseñar acciones de retención.
 
