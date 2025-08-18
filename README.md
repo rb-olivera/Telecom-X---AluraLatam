@@ -1,0 +1,2 @@
+# Telecom X - AluraLatam
+
